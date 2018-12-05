@@ -1,2 +1,2 @@
 # acm-problems
-Work from ACM practices (and problems done in spare time).
+Work from UBC's ACM Programming Team practices (and problems done in spare time).
